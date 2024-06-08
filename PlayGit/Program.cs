@@ -11,6 +11,7 @@ namespace PlayGit
         static void Main(string[] args)
         {
             // Naglaa :D
+            //Let the game start B|
         }
     }
 }
